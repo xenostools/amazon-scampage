@@ -20,3 +20,5 @@
 - Auto Detect Language
 - Telegram Notification
 - JS Inject 
+
+TG : https://t.me/xenos_admin
