@@ -1,4 +1,4 @@
-<p align="center">Binance Scampage</p>
+<p align="center">Amazon Scampage</p>
 
 <p align="center" width="100%">
     <img width="33%" src="https://i.ibb.co/rfr42pH/4.png">
